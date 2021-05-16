@@ -1,0 +1,1 @@
+class Materia (val nomeMateria: String)
