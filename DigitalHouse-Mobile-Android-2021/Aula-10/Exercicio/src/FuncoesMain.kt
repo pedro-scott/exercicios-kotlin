@@ -1,5 +1,12 @@
 import java.util.Scanner
 
+/*
+    Caso queira trabalhar com outras bibliotecas sem me preocupar com as importações utilize: import java.util.*
+
+    Dessa forma todas as funções de outras bibliotecas importarão ela automaticamente
+*/
+
+
 fun lerInt() : Int {
     //Criando reader para ler inteiros
     val reader = Scanner(System.`in`)

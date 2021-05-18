@@ -40,9 +40,9 @@ fun main() {
 
     println("--------Ingresso Adquirido--------")
     imprimeInformacoes(
-        ingresso1 = Normal(),
-        ingresso2 = CamaroteInferior(localizacaoIngresso = localizacaoIngresso),
-        ingresso3 = CamaroteSuperior(),
+        ingresso1 = Normal(valor = 19.99),
+        ingresso2 = CamaroteInferior(valor = 29.99, localizacaoIngresso = localizacaoIngresso),
+        ingresso3 = CamaroteSuperior(valor = 29.99, adicional = 14.99),
         opcao = opcao1
     )
     println("------------------------------")
