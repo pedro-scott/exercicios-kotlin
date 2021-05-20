@@ -8,4 +8,6 @@ class Funcionario (
             else -> super.equals(other)
         }
     }
+
+    override fun toString(): String = "$nome (NR: $numeroDeRegistro)"
 }

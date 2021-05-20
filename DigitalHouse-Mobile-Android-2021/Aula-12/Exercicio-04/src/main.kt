@@ -9,7 +9,7 @@ fun main() {
     val novoFuncionario = Funcionario(nome = "Alex", numeroDeRegistro = 111)
 
     if (funcionarios.contains(novoFuncionario))
-        println("${novoFuncionario.nome} está na lista")
+        println("$novoFuncionario está na lista")
     else
-        println("${novoFuncionario.nome} não está na lista")
+        println("$novoFuncionario não está na lista")
 }

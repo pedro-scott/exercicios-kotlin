@@ -8,4 +8,6 @@ class Coca (
             else -> super.equals(other)
         }
     }
+
+    override fun toString(): String = "Preço R$$preco (Tamanho $tamanho)"
 }

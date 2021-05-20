@@ -10,6 +10,10 @@ fun main() {
         )
     )
 
+    pessoas.forEach {
+        println(it)
+    }
+
     if (pessoas[0] == pessoas[1])
         println("São Iguais")
     else

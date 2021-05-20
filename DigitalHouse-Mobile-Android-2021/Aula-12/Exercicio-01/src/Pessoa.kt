@@ -8,4 +8,6 @@ class Pessoa (
             else -> super.equals(other)
         }
     }
+
+    override fun toString(): String = "$nome (RG $rg)"
 }

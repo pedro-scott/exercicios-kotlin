@@ -10,6 +10,10 @@ fun main() {
         )
     )
 
+    cocas.forEach {
+        println(it)
+    }
+
     if (cocas[0] == cocas[1])
         println("São Iguais")
     else

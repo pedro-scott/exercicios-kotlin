@@ -8,4 +8,6 @@ class Aluno (
             else -> super.equals(other)
         }
     }
+
+    override fun toString(): String = "$nome (Número do Aluno: $numeroDeAluno)"
 }

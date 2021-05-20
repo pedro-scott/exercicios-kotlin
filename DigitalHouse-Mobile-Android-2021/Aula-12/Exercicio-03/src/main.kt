@@ -21,7 +21,7 @@ fun main() {
     val alunoNovo = Aluno(nome = "Nick", numeroDeAluno = 33)
 
     if (alunos.contains(alunoNovo))
-        println("${alunoNovo.nome} está na lista")
+        println("$alunoNovo está na lista")
     else
-        println("${alunoNovo.nome} não está na lista")
+        println("$alunoNovo não está na lista")
 }
