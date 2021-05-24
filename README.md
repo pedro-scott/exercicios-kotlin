@@ -1,4 +1,4 @@
-# Níveis dos Exercícios feitos na Digital House
+# Exercícios feitos na Digital House
 
 Olá :) Decidi salvar os exercícios sobre Kotlin que tenho feito durante o curso para me auxiliar quando necessário. Abaixo estão os conteúdos abordados em cada aula.
 
