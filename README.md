@@ -10,3 +10,7 @@ Olá :) Decidi salvar os exercícios sobre Kotlin que tenho feito durante o curs
 * Aula 11 - Treinando Interfaces
 * Aula 12 - Modificando os métodos da Classe Any
 * Aula 13 - Revisão dos Conteúdos vistos até aqui
+* Aula 14 - Exercitando Funções
+* Aula 15 - Aprendendo Mais Sobre Funções
+* Aula 16 - Criando Listas, Conjuntos e Dicionários
+* Aula 17 - Conhecendo as Exceptions
